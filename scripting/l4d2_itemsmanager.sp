@@ -15,7 +15,7 @@ public Plugin myinfo =
 	author = "Keith Warren (Shaders Allen)",
 	description = "Allows for the management of items to spawn or limit them.",
 	version = "1.0.0",
-	url = "https://github.com/ShadersAllen"
+	url = "https://www.shadersallen.com/"
 };
 
 public void OnPluginStart()
